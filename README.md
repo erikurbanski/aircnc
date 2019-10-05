@@ -1,14 +1,15 @@
-1. Inicializar projeto:
-   \$ yarn init -y
+## 1. Inicializar projeto:
 
-2. Adicionar bibliotecas:
-   $ yarn add express
-   $ yarn add nodemon -D
-   $ yarn add mongoose
-   $ yarn add multer
-   \$ yarn add cors
+`yarn init -y`
 
-3. Configure nodemon in package.json:
-   "scripts": {
-   "dev": "nodemon src/server.js"
-   }
+## 2. Adicionar bibliotecas:
+
+`yarn add express` <br>
+`yarn add nodemon -D` <br>
+`yarn add mongoose` <br>
+`yarn add multer` <br>
+`yarn add cors` <br>
+
+## 3. Configure nodemon in package.json:
+
+"scripts": { "dev": "nodemon src/server.js" }
