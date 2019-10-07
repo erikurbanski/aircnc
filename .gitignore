@@ -117,6 +117,7 @@ public/
 **/*.back.*
 
 node_modules
+uploads
 bower_componets
 
 *.sublime*
